@@ -1,4 +1,5 @@
-This meeting will bring together network operators, vendors of network equipment, and implementers of NMS/OSS to share their insights into Agentic AI-driven network operations,
+This meeting will bring together network operators, vendors of network equipment, and implementers of NMS/OSS to share their insights into
+Agentic AI-driven network operations,
 with a focus on its applicability, architecture design, and candidate interfaces and protocols, with an emphasis on the use of IETF protocols, and 
 future work that might belong in the IETF. 
 
@@ -11,4 +12,5 @@ including Q&A), respectively, from the perspectives of network operators, NMS ve
 3. 5 minutes for closing summary and next steps.
 
 Organizers: Zhenqiang Li (China Mobile), Daniel King (Lancaster University), Qin Wu (Huawei) 
+
 Email address：lizhenqiang@chinamobile.com, d.king@lancaster.ac.uk, bill.wu@huawei.com
