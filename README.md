@@ -1,16 +1,39 @@
-This meeting will bring together network operators, vendors of network equipment, and implementers of NMS/OSS to share their insights into
-Agentic AI-driven network operations,
-with a focus on its applicability, architecture design, and candidate interfaces and protocols, with an emphasis on the use of IETF protocols, and 
-future work that might belong in the IETF. 
+<img width="1769" height="97" alt="image" src="https://github.com/user-attachments/assets/dde14c1e-f3da-4040-9548-da98aef9f974" /># Agentic AI-Driven Network Operations — Side Meeting
 
-The meeting agenda is structured as follows: 
+## Overview
 
-1. 10 minutes for opening remarks (covering IETF meeting rules, 
-agenda arrangement, and objectives); 
-2. 75 minutes of presentations by Deutsche Telekom, China Mobile, China Unitechs, Huawei, and Cisco (15 minutes each, 
-including Q&A), respectively, from the perspectives of network operators, NMS vendors, and network equipment vendors;
-3. 5 minutes for closing summary and next steps.
+This meeting brings together network operators, vendors of network equipment,
+and implementers of NMS/OSS to share insights into Agentic AI-driven network
+operations, with a focus on:
 
-Organizers: Zhenqiang Li (China Mobile), Daniel King (Lancaster University), Qin Wu (Huawei) 
+- Applicability and architecture design
+- Candidate interfaces and protocols
+- Emphasis on the use of IETF protocols
+- Future work that might belong in the IETF
 
-Email address：lizhenqiang@chinamobile.com, d.king@lancaster.ac.uk, bill.wu@huawei.com
+## Agenda
+
+| Time | Item |
+|------|------|
+| 10 min | Opening remarks — IETF meeting rules, agenda arrangement, and objectives |
+| 75 min | Presentations (15 min each, including Q&A) |
+| 5 min | Closing summary and next steps |
+
+### Presentations
+
+Presenters represent the perspectives of network operators, NMS vendors, and
+network equipment vendors:
+
+1. Deutsche Telekom
+2. China Mobile
+3. China Unicom
+4. Huawei
+5. AI based Network Management Agent: Industry Direction and Standards Opportunities (Daniele Ceccarelli & Xing James Jiang  - Cisco. - [Presentation Slides](materials/cisco.pptx)
+
+## Organizers
+
+| Name | Affiliation | Email |
+|------|-------------|-------|
+| Zhenqiang Li | China Mobile | lizhenqiang@chinamobile.com |
+| Daniel King | Lancaster University | d.king@lancaster.ac.uk |
+| Qin Wu | Huawei | bill.wu@huawei.com |
