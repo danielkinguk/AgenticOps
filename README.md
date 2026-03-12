@@ -28,7 +28,7 @@ network equipment vendors:
 2. China Mobile
 3. China Unicom
 4. Huawei
-5. AI based Network Management Agent: Industry Direction and Standards Opportunities (Daniele Ceccarelli & Xing James Jiang  - Cisco. - [Presentation Slides](https://github.com/danielkinguk/AgenticOps/blob/main/materials/agenticops-cisco-v1.pptx)
+5. AI based Network Management Agent: Industry Direction and Standards Opportunities (Daniele Ceccarelli & Xing James Jiang  - Cisco) - [Presentation Slides](https://github.com/danielkinguk/AgenticOps/blob/main/materials/agenticops-cisco-v1.pptx)
 
 ## Organizers
 
