@@ -1,4 +1,4 @@
-<img width="1769" height="97" alt="image" src="https://github.com/user-attachments/assets/dde14c1e-f3da-4040-9548-da98aef9f974" /># Agentic AI-Driven Network Operations — Side Meeting
+# Agentic AI-Driven Network Operations — Side Meeting
 
 ## Overview
 
