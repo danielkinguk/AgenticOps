@@ -24,7 +24,7 @@ operations, with a focus on:
 Presenters represent the perspectives of network operators, NMS vendors, and
 network equipment vendors:
 
-1. Deutsche Telekom
+1. Unexpected Incidents with Multi-Agent Collaboration (Roland Schott & Nils.Warnke - Deutsche Telekom) - [Presentation Slides](https://github.com/danielkinguk/AgenticOps/blob/main/materials/agenticops-usecase-deutsche-telekom.pptx)
 2. China Mobile
 3. China Unicom
 4. Huawei
