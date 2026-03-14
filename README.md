@@ -25,9 +25,9 @@ Presenters represent the perspectives of network operators, NMS vendors, and
 network equipment vendors:
 
 1. Unexpected Incidents with Multi-Agent Collaboration (Roland Schott & Nils.Warnke - Deutsche Telekom) - [Presentation Slides](https://github.com/danielkinguk/AgenticOps/blob/main/materials/agenticops-usecase-deutsche-telekom.pptx)
-2. China Mobile
+2. Network Changes enabled by Agent and Network Digital Twin (Ying Si - China Mobile) - [Presentation Slides](https://github.com/danielkinguk/AgenticOps/blob/main/materials/agennt-network-digital-twin-china-mobile.pptx)
 3. China Unicom
-4. Huawei
+4. Agentic AI Driven Network Management Migration Challenges and Opportunities in IETF (Qin Wu - Huawei) - [Presentation Slides](https://github.com/danielkinguk/AgenticOps/blob/main/materials/agentops-ai-nm-arch-huawei.pdf)
 5. AI based Network Management Agent: Industry Direction and Standards Opportunities (Daniele Ceccarelli & Xing James Jiang  - Cisco) - [Presentation Slides](https://github.com/danielkinguk/AgenticOps/blob/main/materials/agenticops-cisco-v1.pptx)
 
 ## Organizers
