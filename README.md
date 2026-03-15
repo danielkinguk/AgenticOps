@@ -15,9 +15,9 @@ operations, with a focus on:
 
 | Time | Item |
 |------|------|
-| 10 min | Opening remarks — IETF meeting rules, agenda arrangement, and objectives |
-| 75 min | Presentations (15 min each, including Q&A) |
-| 5 min | Closing summary and next steps |
+| 5 min | Opening remarks — IETF meeting rules, agenda arrangement, and objectives |
+| 75 min | Presentations (12 min each, including Q&A) |
+| 10 min | Closing summary and next steps |
 
 ### Presentations
 
